@@ -57,7 +57,7 @@ if (!$conn) die(mysqli_connect_error($conn));
 
     }
 
-//    id-n kam chi poxvum kam erku angamic a anum,bayc chisht a anum
+
 
 
 

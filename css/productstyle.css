@@ -1,0 +1,42 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+td, th {
+    border: 1px solid #cdb7dd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+table, td, th{
+    text-align: center;
+}
+.addbutton{
+    padding: 5px 8px;
+
+}
+.count{
+    width: 70px;
+    padding-bottom: 4px;
+    text-align: center;
+    font-size: 15px;
+}
+.total{
+    font-size: 25px;
+    font-weight: 700;
+}
+.orderbutton{
+padding: 5px 20px;
+    background-color: #34ffb0;
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: 700;
+}

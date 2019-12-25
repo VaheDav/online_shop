@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b432dd8-b8cd-4aa4-b475-b53e957867a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/model.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="505">
+              <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa1344.790/model.php" />
         <option value="$PROJECT_DIR$/model.php" />
+        <option value="D:/__DRIVE_C/Documents/GitHub/online_shop/model.php" />
       </list>
     </option>
   </component>
@@ -278,12 +278,20 @@
       <workItem from="1577188611000" duration="7294000" />
       <workItem from="1577255217068" duration="2993000" />
       <workItem from="1577260513573" duration="13000" />
-      <workItem from="1577260535376" duration="432000" />
+      <workItem from="1577260535376" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="aaaaa">
+      <created>1577261192857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577261192857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198666000" />
+    <option name="totallyTimeSpent" value="198932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +306,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13896848" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13896848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,7 +327,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13681948" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13896848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,8 +351,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaa" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/codeigniter/Vahehome2/application/models/admin_model.php" />
     <entry file="file://$PROJECT_DIR$/admin/add.php" />
     <entry file="file://$PROJECT_DIR$/admin/add_product.php" />
     <entry file="file://$PROJECT_DIR$/admin/delete.php" />
@@ -545,10 +556,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/__DRIVE_C/Documents/GitHub/online_shop/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="505">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
         </state>
       </provider>
     </entry>

@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b432dd8-b8cd-4aa4-b475-b53e957867a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addProductsAdmin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_to_card.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allOrders.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/confirmOrder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/allOrdersStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/cartstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/headerstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/productstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -195,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1456" />
@@ -299,12 +283,12 @@
       <workItem from="1577086212147" duration="17441000" />
       <workItem from="1577169021911" duration="11462000" />
       <workItem from="1577188611000" duration="7294000" />
-      <workItem from="1577255217068" duration="925000" />
+      <workItem from="1577255217068" duration="1524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196153000" />
+    <option name="totallyTimeSpent" value="196752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,7 +553,7 @@
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
